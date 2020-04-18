@@ -1,0 +1,15 @@
+{
+    "code": 200,
+    "message": "获取成功",
+    "data": [
+        {
+            "content": "/img/hongjiu_logo1.jpg"
+        },
+        {
+            "content": "/img/hongjiu_logo2.jpg"
+        },
+        {
+            "content": "/img/hongjiu_logo3.jpg"
+        }
+    ]
+}
